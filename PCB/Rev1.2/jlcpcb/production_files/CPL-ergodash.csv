@@ -34,7 +34,7 @@ D68,D,Diode_SMD_THT2,127.78859,3.191999,60.0,top
 D7,D,Diode_SMD_THT3,37.5,42.98,90.0,top
 D8,D,Diode_SMD_THT3,39.985,28.194,90.0,top
 D9,D,Diode_SMD_THT3,39.985,85.344,90.0,top
-J1,5PIN,trrs_jack2,122.25,93.13,-90.0,top
+J1,5PIN,trrs_jack2,120.5,93.6525,-90.0,top
 SW1,SW_PUSH,Kailh_socket_PG1350_optional_reversible,10.267,85.5475,0.0,bottom
 SW10,SW_PUSH,Kailh_socket_PG1350_optional_reversible,48.367,71.26,0.0,bottom
 SW11,SW_PUSH,Kailh_socket_PG1350_optional_reversible,48.367,52.21,0.0,bottom
